@@ -1,0 +1,20 @@
+{
+  "prefs": {
+    "AutosuggestionAcceptedCount": "2",
+    "ExperimentId": "ac10aff8-f5b0-4c11-8171-ec89b7d43530",
+    "FontName": "\"FiraCode Nerd Font\"",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "FontSize": "16.0",
+    "DismissedWarpAIWarmWelcome": "true",
+    "SavedPrompt": "\"Default\"",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":1,\"next_refresh_time\":\"2024-04-16T19:19:35.144812Z\"}",
+    "HonorPS1": "true",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"SplitPane\"},{\"Action\":\"OpenWarpDrive\"},{\"Action\":\"WarpAI\"},{\"Hint\":\"BlockAction\"},{\"Action\":\"AiCommandSearch\"},{\"Hint\":\"BlockSelect\"},{\"Hint\":\"CreateBlock\"},{\"Action\":\"CommandSearch\"}]",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "NotebookFontSize": "14.0",
+    "Theme": "\"Dracula\"",
+    "HasDismissedWarpDriveWelcome": "true",
+    "Shortcuts": "true",
+    "ChangelogVersions": "{\"v0.2024.04.09.08.01.stable_01\":true}"
+  }
+}
